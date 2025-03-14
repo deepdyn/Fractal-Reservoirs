@@ -1,2 +1,2 @@
 # Fractal-Reservoirs
-HierarchicalFractal Reservoirs
+Hierarchical Fractal Reservoirs
